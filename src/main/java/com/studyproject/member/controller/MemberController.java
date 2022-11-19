@@ -2,7 +2,7 @@ package com.studyproject.member.controller;
 
 public class MemberController {
     public void postMember() {
-        System.out.println("test2");
+        System.out.println("test3");
     }
 
     public void patchMember() {
